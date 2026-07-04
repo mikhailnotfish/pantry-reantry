@@ -1,2 +1,2 @@
-# pantry-reantry
-this is the github repo im gonna be using for my upcoming unity game
+hi! thank you for reading my readme!
+
