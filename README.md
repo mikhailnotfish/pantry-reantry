@@ -42,9 +42,7 @@ in the selection menu, but it was very hard to code in because i had to add sepe
 
 and this strained my crappy laptop. after the ui was finished, i realised i was missing somthing... i was missing music!!
 
-the game had no music!! so i got an ai to make a soundtrack for me, as i was afraid of getting copywrighted or somthing
-
-if i used someone elses music. anyway it turned out great!
+the game had no music!! so i got some random piano song that didnt sound so bad of the corners if the internet and put it in.
 
 
 
