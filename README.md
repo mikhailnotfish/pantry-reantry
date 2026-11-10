@@ -100,3 +100,8 @@ thanks for taking the time to read my readME up to here. i really hope you enjoy
 and if you are coming from stardance, you give me a good rating. thank you!
 
 
+
+**edits**
+i fixed the game for AI use, i added my own music, images, and i rewrote the UI to be my own.
+
+
