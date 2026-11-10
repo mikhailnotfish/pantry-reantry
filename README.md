@@ -3,6 +3,7 @@
 hey! this is my game, PANTRY REENTRY.
 
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/ecd5698a-563c-450a-814e-ef9dc8e240bf" />
+(outdated ui shown in picture)
 
 so, essentially, this is a game about random household objects being thrown into the atmosphere
 
