@@ -1,3 +1,7 @@
+# bug warning: when loading the game, if you press anything IT WILL CRASH DO NOT PRESS ANYTHING WHEN LOADING
+
+
+
 # Pantry Reentry
 
 hey! this is my game, PANTRY REENTRY.
